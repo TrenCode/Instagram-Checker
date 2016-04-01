@@ -1,0 +1,14 @@
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\bin\Debug\FlatUI.dll
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\bin\Debug\FlatUI.pdb
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\obj\Debug\FlatUIRemake.csprojResolveAssemblyReference.cache
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\obj\Debug\FlatUIRemake.csproj.GenerateResource.Cache
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\obj\Debug\FlatUIRemake.Form1.resources
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\bin\Debug\AnimControls.dll
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\bin\Debug\AnimControls.pdb
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\bin\Debug\AnimControls.xml
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\bin\Debug\InstagramChecker.exe.config
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\bin\Debug\InstagramChecker.exe
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\bin\Debug\InstagramChecker.pdb
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\obj\Debug\i.Properties.Resources.resources
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\obj\Debug\InstagramChecker.exe
+c:\users\predatorcode\documents\visual studio 2013\Projects\FlatUIRemake\FlatUIRemake\obj\Debug\InstagramChecker.pdb
